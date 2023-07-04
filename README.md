@@ -1,5 +1,6 @@
 # ProgrammingI
 Programing二期のリポジトリー
+## 教科書 課題
 ### CHAPTER1 Pythonの基本
 - 1.1 Pythonとその特徴
 - 1.2 コードの実行方法
