@@ -22,7 +22,7 @@ Programing二期のリポジトリー
 - 2.13 importのいろいろな書き方([Q2_13_1.py](CHAPTER02/Q2_13_1.py) , [Q2_13_2.py](./CHAPTER02/Q2_13_2.py))
 ### CHAPTER3 制御構文
 - 3.1 if文の基礎([Q3_1_1.py](./CHAPTER02/Q3_1_1.py) , [Q3_1_2.py](./CHAPTER02/Q3_1_2.py))
-- 3.2 if文の応用([Q3_2_1.py](./CHATER02/Q3_2_1.py) , [Q3_2_2.py](./CHAPTER02/Q3_2_2.py))
+- 3.2 if文の応用([Q3_2_1.py](./CHAPTER02/Q3_2_1.py) , [Q3_2_2.py](./CHAPTER02/Q3_2_2.py))
 - 3.3 for文の基礎([Q3_3_1.py](./CHAPTER02/Q3_3_1.py))
 - 3.4 for文の応用([Q3_4_1.py](./CHAPTER02/Q3_4_1.py) , [Q3_4_2.py](,/CHAPTER02/Q3_4_2.py))
 - 3.5 while文の基礎([Q3_5_1.py](./CHAPTER02/Q3_5_1.py) , [Q3_5_2.py](./CHAPTER02/Q3_5_2.py))
