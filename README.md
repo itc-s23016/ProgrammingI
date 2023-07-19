@@ -28,9 +28,9 @@ Programing二期のリポジトリー
 - 3.5 while文の基礎([Q3_5_1.py](./CHAPTER03/Q3_5_1.py) , [Q3_5_2.py](./CHAPTER03/Q3_5_2.py))
 - 3.6 whileを使ったプログラミング([Q3_6_1.py](./CHAPTER03/Q3_6_1.py) , [Q3_6_2.py](./CHAPTER03/Q3_6_2.py))
 - 3.7 ファイルの操作([Q3_7_1.py](./CHAPTER03/Q3_7_1.py) , [Q3_7_2.py](./CHAPTER03/Q3_7_2.py))
-- 3.8 バイナリファイルの扱い([Q3_8_1.py](./CHAPTER03/Q3_8_1.py) , [Q3_8_2.py](./CHAPTER02/Q3_8_2.py))
+- 3.8 バイナリファイルの扱い([Q3_8_1.py](./CHAPTER03/Q3_8_1.py) , [Q3_8_2.py](./CHAPTER03/Q3_8_2.py))
 ### CHAPTER4 関数
-- 4.1 関数の書き方([Q4_1_1.py](./CHAPTER02/Q4_1_1.py) , [Q4_1_2.py](./CHAPTER02/Q4_1_1.py))
+- 4.1 関数の書き方([Q4_1_1.py](./CHAPTER04/Q4_1_1.py) , [Q4_1_2.py](./CHAPTER04/Q4_1_1.py))
 - 4.2 キーワード引数
 - 4.3 引数リスト
 - 4.4 関数とスコープ
