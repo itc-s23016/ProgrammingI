@@ -43,7 +43,7 @@ Programing二期のリポジトリー
 - 5.1 リストのメソッド([Q5_1_1.py](./CHAPTER05/Q5_1_1.py) , [Q5_1_2.py](./CHAPTER05/Q5_1_2.py) , [Q5_1_3.py](./CHAPTER05/Q5_1_3.py))
 - 5.2 リスト内包表記([Q5_2_1.py](./CHAPTER05/Q5_2_1.py) , [Q5_2_2.py](./CHAPTER05/Q5_2_2.py) , [Q5_2_3.py](./CHAPTER05/Q5_2_3.py))
 - 5.3 del を使った削除
-- 5.4 タプル
+- 5.4 タプル([Q5_4_1.py](./CHAPTER05/Q5_4_1.py) , [Q5_4_2.py](./CHAPTER05/Q5_4_2.py) , [Q5_4_3.py](./CHAPTER05/Q5_4_3.py) , [Q5_4_4.py](./CHAPTER05/Q5_4_4.py))
 - 5.5 集合（set）
 - 5.6 集合を使った演算
 - 5.7 辞書（dict）
