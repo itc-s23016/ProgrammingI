@@ -41,7 +41,7 @@ Programing二期のリポジトリー
 - 4.9 コーディングスタイル([Q4_9_1.py](./CHAPTER04/Q4_9_1.py) , [Q4_9_2.py](./CHAPTER04/Q4_9_2.py) , [its_test.py](./CHAPTER04/its_test.py))
 ### CHAPTER5 データ構造
 - 5.1 リストのメソッド([Q5_1_1.py](./CHAPTER05/Q5_1_1.py) , [Q5_1_2.py](./CHAPTER05/Q5_1_2.py) , [Q5_1_3.py](./CHAPTER05/Q5_1_3.py))
-- 5.2 リスト内包表記
+- 5.2 リスト内包表記([Q5_2_1.py](./CHAPTER05/Q5_2_2.py) , [Q5_2_2.py](./CHAPTER05/Q5_2_2.py) , [Q5_2_3.py](./CHAPTER05/Q5_2_3.py))
 - 5.3 del を使った削除
 - 5.4 タプル
 - 5.5 集合（set）
