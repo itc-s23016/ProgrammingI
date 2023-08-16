@@ -48,7 +48,7 @@ Programing二期のリポジトリー
 - 5.6 集合を使った演算([Q5_6_1.py](./CHAPTER05/Q5_6_1.py) , [Q5_6_2.py](./CHAPTER05/Q5_6_2.py))
 - 5.7 辞書（dict）([Q5_7_1.py](./CHAPTER05/Q5_7_1.py) , [Q5_7_2.py](./CHAPTER05/Q5_7_2.py))
 - 5.8 辞書を使ったプログラミング([Q5_8_1.py](./CHAPTER05/Q5_8_1.py) , [Q5_8_2.py](./CHAPTER05/Q5_8_2.py))
-- 5.9 ループのテクニック([Q5_9_1.py](./CHAPTER05/Q5_9_1.py) , [Q5_9_2.py](./CHAPTER05/Q5_9_2.py)
+- 5.9 ループのテクニック([Q5_9_1.py](./CHAPTER05/Q5_9_1.py))
 - 5.10 比較
 ### CHAPTER6 クラス
 - 6.1 クラスの基本
