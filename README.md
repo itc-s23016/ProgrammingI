@@ -42,7 +42,7 @@ Programing二期のリポジトリー
 ### CHAPTER5 データ構造
 - 5.1 リストのメソッド([Q5_1_1.py](./CHAPTER05/Q5_1_1.py) , [Q5_1_2.py](./CHAPTER05/Q5_1_2.py) , [Q5_1_3.py](./CHAPTER05/Q5_1_3.py))
 - 5.2 リスト内包表記([Q5_2_1.py](./CHAPTER05/Q5_2_1.py) , [Q5_2_2.py](./CHAPTER05/Q5_2_2.py) , [Q5_2_3.py](./CHAPTER05/Q5_2_3.py))
-- 5.3 del を使った削除
+- 5.3 del を使った削除([Q5_3_1.py](./CHAPTER05/Q5_3_1.py) , [Q5_3_2.py](./CHAPTER05/Q5_3_2.py))
 - 5.4 タプル([Q5_4_1.py](./CHAPTER05/Q5_4_1.py) , [Q5_4_2.py](./CHAPTER05/Q5_4_2.py) , [Q5_4_3.py](./CHAPTER05/Q5_4_3.py) , [Q5_4_4.py](./CHAPTER05/Q5_4_4.py))
 - 5.5 集合（set）([Q5_5_1.py](./CHAPTER05/Q5_5_1.py) , [Q5_5_2.py](./CHAPTER05/Q5_5_2.py))
 - 5.6 集合を使った演算([Q5_6_1.py](./CHAPTER05/Q5_6_1.py) , [Q5_6_2.py](./CHAPTER05/Q5_6_2.py))
@@ -60,8 +60,8 @@ Programing二期のリポジトリー
 ### CHAPTER7 エラーと例外の処理
 - 7.1 エラーと例外の基本([Q7_1_1.py](./CHAPTER07/Q7_1_1.py) , [Q7_1_2.py](./CHAPTER07/Q7_1_2.py) , [Q7_1_3.py](./CHAPTER07/Q7_1_3.py) , [Q7_1_4.py](./CHAPTER07/Q7_1_4.py))
 - 7.2 例外の種類と対応方法([Q7_2_1.py](./CHAPTER07/Q7_2_1.py) , [Q7_2_2.py](./CHAPTER07/Q7_2_2.py))
-- 7.3 ユーザ定義例外
-- 7.4 クリーンアップ
+- 7.3 ユーザ定義例外([Q7_3_1.py](./CHAPTER07/Q7_3_1.py))
+- 7.4 クリーンアップ([Q7_4_1.py](./CHAPTER07/Q7_4_1.py) , [Q7_4_2.py](./CHAPTER07/Q7_4_2.py))
 ### CHAPTER8 標準ライブラリ
 - 8.1 os
 - 8.2 pathlib
